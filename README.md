@@ -9,7 +9,6 @@ This widget is very customizable with a great design.
 
 `introduction_screen` uses another package, [dots_indicator](https://github.com/Pyozer/dots_indicator), that I also created.
 
-<img src="https://raw.githubusercontent.com/Pyozer/introduction_screen/master/demo/example.gif" width="270">
 
 ## Installation
 
